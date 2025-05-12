@@ -1,0 +1,32 @@
+#tablaOfertas {
+    margin-top: 30px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+#tablaOfertas thead {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+#tablaOfertas tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+#submitErrorMessage {
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+#submitErrorMessage strong {
+    font-weight: bold;
+}
+
+#submitErrorMessage span {
+    font-size: 1.1em;
+    font-style: italic;
+}
