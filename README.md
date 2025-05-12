@@ -1,4 +1,4 @@
-# API/SGA
+# Seguros-Grupo-Asistencia
 
 ## Descripción
 Este proyecto ofrece las vistas del frontend que los clientes pueden visualizar. Está desarrollado utilizando tecnologías web estándar como HTML, CSS y JavaScript.
